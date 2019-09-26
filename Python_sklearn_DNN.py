@@ -58,18 +58,23 @@ print("The Model's Classicication Report: \n", classification_report(y_test, the
 #print("The Models Weight Matrices for Input Layer: \n", theModel.coefs_[0], "\n")
 #print("The Models Bias Vectors for Input Layer: \n", theModel.intercepts_[0], "\n")
 
+# Analyze the DNN model's weight matrices and Bias vectors per index of layer
 #print("The Models Weight Matrices for Hidden Layer (0): \n", theModel.coefs_[1], "\n")
 #print("The Models Bias Vectors for Hidden Layer (0): \n", theModel.intercepts_[1], "\n")
 
+# Analyze the DNN model's weight matrices and Bias vectors per index of layer
 #print("The Models Weight Matrices for Hidden Layer (1): \n", theModel.coefs_[2], "\n")
 #print("The Models Bias Vectors for Hidden Layer (1): \n", theModel.intercepts_[2], "\n")
 
+# Analyze the DNN model's weight matrices and Bias vectors per index of layer
 #print("The Models Weight Matrices for Hidden Layer (2): \n", theModel.coefs_[3], "\n")
 #print("The Models Bias Vectors for Hidden Layer (2): \n", theModel.intercepts_[3], "\n")
 
+# Analyze the DNN model's weight matrices and Bias vectors per index of layer
 #print("The Models Weight Matrices for Hidden Layer (3): \n", theModel.coefs_[4], "\n")
 #print("The Models Bias Vectors for Hidden Layer (3): \n", theModel.intercepts_[4], "\n")
 
+# Analyze the DNN model's weight matrices and Bias vectors per index of layer
 #print("The Models Weight Matrices for Output Layer: \n", theModel.coefs_[5], "\n")
 #print("The Models Bias Vectors for Output Layer: \n", theModel.intercepts_[5], "\n")
 
