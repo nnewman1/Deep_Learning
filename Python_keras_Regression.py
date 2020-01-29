@@ -3,6 +3,7 @@
 # Deep learning is a subset of machine learning in artificial intelligence (AI) that has networks capable of learning unsupervised from data that is unstructured or unlabeled.
 # Python is an interpreted, high-level, general-purpose programming language.
 # Keras is an open-source high-level neural-network library written in Python.
+# Pandas is a software library written for data manipulation and analysis.
 
 # Import python libraries
 import matplotlib.pyplot as plt
