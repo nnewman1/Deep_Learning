@@ -4,6 +4,7 @@
 # Python is an interpreted, high-level, general-purpose programming language.
 # Keras is an open-source high-level neural-network library written in Python.
 # Pandas is a software library written for data manipulation and analysis.
+# Tensorflow is an open source machine learning platform for python.
 
 # Import python libraries
 import matplotlib.pyplot as plt
