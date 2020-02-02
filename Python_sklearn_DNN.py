@@ -1,6 +1,8 @@
 # Python tutorial using scikit-learn with a multi-hidden layer Artificial Deep Neural Network (DNN) on the iris dataset.
 # Deep learning is an artificial intelligence function that imitates the workings of the human brain in processing data and creating patterns for use in decision making.
 # Deep learning is a subset of machine learning in artificial intelligence (AI) that has networks capable of learning unsupervised from data that is unstructured or unlabeled.
+# An Artificial Neural Network is based on the structure of a biological brain. 
+# These systems learn to perform tasks or classify based on data, without the need to be programmed specific task rules.
 # Python is an interpreted, high-level, general-purpose programming language.
 # sci-kit learn or sklearn is an high-level machine learning library for python.
 
