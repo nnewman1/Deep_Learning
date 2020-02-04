@@ -1,6 +1,8 @@
 # Python tutorial using numpy with a multi-layer hidden layer Deep Artificial Neural Network (DNN) on a sudo generated dataset.
 # Deep learning is an artificial intelligence function that imitates the workings of the human brain in processing data and creating patterns for use in decision making.
 # Deep learning is a subset of machine learning in artificial intelligence (AI) that has networks capable of learning unsupervised from data that is unstructured or unlabeled.
+# An Artificial Neural Network is based on the structure of a biological brain. 
+# These systems learn to perform tasks or classify based on data, without the need to be programmed specific task rules.
 # Python is an interpreted, high-level, general-purpose programming language.
 # NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. 
 
