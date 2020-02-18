@@ -7,6 +7,7 @@
 # Tensorflow is an open source machine learning platform for python.
 # Keras is an open-source high-level neural-network library written in Python.
 # NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+# Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
 
 t0 = time.time()
 with tf.device('/GPU:0'):
