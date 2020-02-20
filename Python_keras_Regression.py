@@ -5,6 +5,7 @@
 # Keras is an open-source high-level neural-network library written in Python.
 # Pandas is a software library written for data manipulation and analysis.
 # Tensorflow is an open source machine learning platform for python.
+# Matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy.
 
 # Import python libraries
 import matplotlib.pyplot as plt
